@@ -19,7 +19,7 @@
 
 ## Resources
 
-### Job offers
+### Job offers
 
 - [Remoteok](https://remoteok.com/): Se trata de una portal online de búsqueda de empleo especializado en ofertas de teletrabajo.
 
@@ -31,13 +31,13 @@
 
 - [Toptal](https://www.toptal.com/): Toptal es una red formada por desarrolladores de software, diseñadores, expertos en marketing, expertos en finanzas, gerentes de productos y gerentes de proyectos independientes del mundo. Las empresas pueden contratar freelancers de Toptal para sus proyectos.
 
-### Katas & technical interviews
+### Katas & technical interviews
 
 - [Codewars](https://www.codewars.com/): Codewars es una plataforma que te ayuda a aprender, entrenar y mejorar tus habilidades de programad@r resolviendo ejercicios de código de muchos tipos y niveles de dificultad.
 
 - [Developer Roadmaps](https://roadmap.sh/): roadmap.sh es un esfuerzo comunitario para crear hojas de ruta, guías y otro contenido educativo para ayudar a los desarrolladores a elegir un camino y guiar sus aprendizajes.
 
-### News
+### News
 
 - [Crunchbase](https://www.crunchbase.com/): Crunchbase es una empresa que proporciona información sobre distintas empresas del sector. Su contenido incluye información sobre inversiones y financiación, personas en puestos de liderazgo y noticias corporativas.
 
