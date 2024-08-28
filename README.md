@@ -115,6 +115,7 @@
 - Importante tener una maquetas y componentes a disposición. Si tienes un proyecto propio (tu PET) mejor que mejor
 - Preguntar todo lo que pueda antes de la entrevista
 - Muchas veces te ponen problemas imposibles, a ver cómo piensas, cómo te ordenas y cómo gestionas el estrés
+- Lo importnate es entrar. Luego dentro y con experiencia es más facil crecer. He visto personas que entraron en el departamento de marketing que hicieron una app y terminaron en el departamento de IT.
 
 ## Documentation
 
