@@ -106,16 +106,16 @@
 ## Types of interviews
 
 - [Prueba técnica de maquetación](https://jorgebenitezlopez.com/pruebas/maquetacion-atsistemas.pdf) A realizar en dos horas. Valoran uso de html5, SASS, flex, grid, BEN y que hagas lo máximo
-- [Prueba técnica de front (React)](https://jorgebenitezlopez.com/pruebas/maquetacion-atsistemas.pdf) A realizar en una semana. Valoran uso de Redux
-- [Prueba técnica de front (React)](https://jorgebenitezlopez.com/pruebas/maquetacion-atsistemas.pdf). [Material](https://jorgebenitezlopez.com/pruebas/materialpruebadezara.zip)A realizar en una semana.
-- [Prueba técnica de Back (Symfony)](https://jorgebenitezlopez.com/tiddlywiki/pro/PruebaTe%CC%81cnicaProgramadorSymfony.pdf). A realizar en una semana.
+- [Prueba técnica de front (React)](https://jorgebenitezlopez.com/pruebas/front-blink.pdf) A realizar en una semana. Valoran uso de Redux
+- [Prueba técnica de front (React)](https://jorgebenitezlopez.com/pruebas/front-zara.pdf). [Material](https://jorgebenitezlopez.com/pruebas/materialpruebadezara.zip)A realizar en una semana.
+- [Prueba técnica de Back (Symfony)](https://jorgebenitezlopez.com/pruebas/back-mio.pdf)/back-mio.pdf). A realizar en una semana.
 - [Prueba de React viendo código](https://github.com/MAD-DW-TI-P2/react-challenge). Te hacen preguntas en vivo sobre qué problema tiene el code
  
 ## Advices
 - Importante tener una maquetas y componentes a disposición. Si tienes un proyecto propio (tu PET) mejor que mejor
 - Preguntar todo lo que pueda antes de la entrevista
-- Muchas veces te ponen problemas imposibles, a ver cómo piensas, cómo te ordenas y cómo gestionas el estrés
-- Lo importnate es entrar. Luego dentro y con experiencia es más facil crecer. He visto personas que entraron en el departamento de marketing que hicieron una app y terminaron en el departamento de IT.
+- Muchas veces te ponen problemas imposibles a ver cómo piensas, cómo te ordenas y cómo gestionas el estrés
+- Lo importnate es entrar. Luego dentro y con algo de experiencia es más facil crecer. He visto personas que entraron en el departamento de marketing que hicieron una app y terminaron en el departamento de IT.
 
 ## Documentation
 
