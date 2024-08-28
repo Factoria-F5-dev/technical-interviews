@@ -7,11 +7,9 @@
    1. [Job offers](#job-offers)
    1. [Katas & technical interviews](#katas--technical-interviews)
    1. [News](#news)
+   1. [What technology to learn](#what-technology-to-learn?)
 1. [Types of interviews](#types-of-interviews)
 1. [Advices](#advices)
-   1. [Pet project](#pet-project)
-   1. [Models and components](#models-and-components)
-   1. [Cases and scenarios](#cases-and-scenarios)
 1. [Documentation](#documentation)
 1. [Honorable mentions](#honorable-mentions)
 
@@ -31,11 +29,21 @@
 
 - [Toptal](https://www.toptal.com/): Toptal es una red formada por desarrolladores de software, diseñadores, expertos en marketing, expertos en finanzas, gerentes de productos y gerentes de proyectos independientes del mundo. Las empresas pueden contratar freelancers de Toptal para sus proyectos.
 
+- [Indeed](https://es.indeed.com/): Es la página web de empleo #1 en el mundo1 con más de 350 millones de usuarios mensuales
+
+- [Tecnoempleo](https://www.tecnoempleo.com/): Portal de empleo especializado en informática y telecomunicaciones
+
+- [Arc](https://arc.dev/): Se trata de una portal online de búsqueda de empleo especializado en ofertas de teletrabajo.
+
+- [Jobspresso](https://jobspresso.co): Se trata de una portal online de búsqueda de empleo especializado en ofertas de teletrabajo.
+
+- [Fiverr](https://es.fiverr.com/): Trabajos freelance
+
 ### Katas & technical interviews
 
 - [Codewars](https://www.codewars.com/): Codewars es una plataforma que te ayuda a aprender, entrenar y mejorar tus habilidades de programad@r resolviendo ejercicios de código de muchos tipos y niveles de dificultad.
 
-- [Developer Roadmaps](https://roadmap.sh/): roadmap.sh es un esfuerzo comunitario para crear hojas de ruta, guías y otro contenido educativo para ayudar a los desarrolladores a elegir un camino y guiar sus aprendizajes.
+- [hackerrank](https://www.hackerrank.com/): Pones tu nivel y te hace un plan para afrontar planes de carrera. Tambiñen me han hecho pruebas técnicas dentro de la plataforma
 
 ### News
 
@@ -87,27 +95,26 @@
 
 - [Zalando](https://engineering.zalando.com/)
 
+### What technology to learn
+
+- [Developer Roadmaps](https://roadmap.sh/): roadmap.sh es un esfuerzo comunitario para crear hojas de ruta, guías y otro contenido educativo para ayudar a los desarrolladores a elegir un camino y guiar sus aprendizajes.
+
+- [Mapa del empleo de Telefónica](https://mapadelempleo.fundaciontelefonica.com/) El Mapa del Empleo es una herramienta interactiva que, gracias a las tecnologías de Inteligencia Artificial y Big Data, analiza la oferta laboral en España y muestra las profesiones y habilidades digitales más demandadas, así como su evolución en el tiempo
+
+- [Stackoverflow survey](https://survey.stackoverflow.co/2024/#overview) In May 2024, over 65,000 developers responded to our annual survey about coding, the technologies and tools they use and want to learn
+
 ## Types of interviews
 
-- Tipos de pruebas técnicas con ejemplos
-
+- [Prueba técnica de maquetación](https://jorgebenitezlopez.com/pruebas/maquetacion-atsistemas.pdf) A realizar en dos horas. Valoran uso de html5, SASS, flex, grid, BEN y que hagas lo máximo
+- [Prueba técnica de front (React)](https://jorgebenitezlopez.com/pruebas/maquetacion-atsistemas.pdf) A realizar en una semana. Valoran uso de Redux
+- [Prueba técnica de front (React)](https://jorgebenitezlopez.com/pruebas/maquetacion-atsistemas.pdf). [Material](https://jorgebenitezlopez.com/pruebas/materialpruebadezara.zip)A realizar en una semana.
+- [Prueba técnica de Back (Symfony)](https://jorgebenitezlopez.com/tiddlywiki/pro/PruebaTe%CC%81cnicaProgramadorSymfony.pdf). A realizar en una semana.
+- [Prueba de React viendo código](https://github.com/MAD-DW-TI-P2/react-challenge). Te hacen preguntas en vivo sobre qué problema tiene el code
+ 
 ## Advices
-
-- Consejos para afrontar las pruebas
-
-### Pet project
-
-- Proyecto propio, tu PET, como gmail
-
-### Models and components
-
-- Tener una maquetas, componentes a disposición
-
-### Cases and scenarios
-
-- Preguntar todo lo que pueda
-- Prueba técnica en 10 minutos.
-- RRHH
+- Importante tener una maquetas y componentes a disposición. Si tienes un proyecto propio (tu PET) mejor que mejor
+- Preguntar todo lo que pueda antes de la entrevista
+- Muchas veces te ponen problemas imposibles, a ver cómo piensas, cómo te ordenas y cómo gestionas el estrés
 
 ## Documentation
 
