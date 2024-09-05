@@ -3,17 +3,73 @@
 ## Table of contents
 
 1. [Introduction](#introduction)
+1. [Types of interviews](#types-of-interviews)
+   1. [Examples](#examples)
+1. [Advices](#advices)
+   1. [Impostor syndrome](#impostor-syndrome)
 1. [Resources](#resources)
    1. [Job offers](#job-offers)
    1. [Katas & technical interviews](#katas--technical-interviews)
    1. [News](#news)
-   1. [What technology to learn](#what-technology-to-learn?)
-1. [Types of interviews](#types-of-interviews)
-1. [Advices](#advices)
+   1. [What technology to learn](#what-technology-to-learn)
 1. [Documentation](#documentation)
 1. [Honorable mentions](#honorable-mentions)
 
 ## Introduction
+
+El siguiente contenido pretende mostrar a coders los diferentes **tipos de pruebas técnicas** que podemos encontrar en un proceso de selección y cómo enfrentar cada una de ellas según la experiencia de nuestros formadores.
+
+Sigue leyendo para descubir documentación, portales de ofertas, prácticas, noticias, tipos de pruebas y consejos para enfrentar la incertidumbre y afrontar el síndrome del impostor.
+
+## Types of interviews
+
+- Informal talk
+
+- Live coding
+
+- New project
+
+- Pet project
+
+- Code review
+
+### Examples
+
+- [Prueba técnica de maquetación](https://jorgebenitezlopez.com/pruebas/maquetacion-atsistemas.pdf): a realizar en dos horas. Valoran uso de html5, SASS, flex, grid, BEN y que hagas lo máximo
+
+- [Prueba técnica de front (React)](https://jorgebenitezlopez.com/pruebas/front-blink.pdf): a realizar en una semana. Valoran uso de Redux
+
+- [Prueba técnica de front (React)](https://jorgebenitezlopez.com/pruebas/front-zara.pdf): A realizar en una semana. Dispones aquí del [material](https://jorgebenitezlopez.com/pruebas/materialpruebadezara.zip)
+
+- [Prueba técnica de Back (Symfony)](https://jorgebenitezlopez.com/pruebas/back-mio.pdf): a realizar en una semana
+
+- [Prueba de React viendo código](https://github.com/MAD-DW-TI-P2/react-challenge). Te hacen preguntas en vivo sobre qué problema tiene el code
+
+- [Ejemplo de prueba técnica real](https://github.com/amargopastor/chartJS)
+
+## Advices
+
+- Importante tener una **maquetas y componentes a disposición**. Si tienes un proyecto propio (tu PET) mejor que mejor
+
+- Hablando de PET, asegúrate que tu **proyecto personal está actualizado, documentado y desplegado**
+
+- No olvides practicar tus **soft skills**
+
+- **Pregunta todo** lo que puedas antes, durante y después de la entrevista
+
+- Muchas veces te ponen **problemas imposibles** a ver cómo piensas, cómo te ordenas y cómo gestionas el estrés. Por ejemplo: '¿Cuánto dinero costaría limpiar todas las ventanas de Seatle?'
+
+- **Sé sincer@** con los aspectos que dominas y aún más con aquellos que no dominas
+
+- **Lo importante es entrar**: una vez dentro y con algo de experiencia es más fácil crecer. Son muchos los casos de personas que entraron en el departamento de marketing que hicieron una app y terminaron en el departamento de IT
+
+- Los procesos de selección son una carrera de fondo: asegúrate de [llevar un registro](https://www.notion.so/templates/category/job-application-tracking) de todo tu trabajo
+
+### Impostor syndrome
+
+<p>
+  <img src="./img/img1.jpg" style="width: 60%">
+</p>
 
 ## Resources
 
@@ -43,17 +99,32 @@
 
 - [Codewars](https://www.codewars.com/): Codewars es una plataforma que te ayuda a aprender, entrenar y mejorar tus habilidades de programad@r resolviendo ejercicios de código de muchos tipos y niveles de dificultad.
 
-- [hackerrank](https://www.hackerrank.com/): Pones tu nivel y te hace un plan para afrontar planes de carrera. Tambiñen me han hecho pruebas técnicas dentro de la plataforma
+- [Hackerrank](https://www.hackerrank.com/): En esta página podemos realizar un sencillo cuestionario inicial obtener nuestro plan de carrera en cualquiera de las siguientes [opciones disponibles](https://www.hackerrank.com/skills-directory).
+
+- [Warmup](https://grow.google/certificates/interview-warmup/): Una plataforma web dónde podemos ensallar nuestras entrevistas y recibir feedback inmediato. Se acompaña además de una plataforma con multitud de recursos (texto y vídeo) para preparar estas mismas pruebas.
 
 ### News
+
+- [Ycombinator](https://news.ycombinator.com/)
+
+- [Github.com/trending](https://github.com/trending)
+
+- [Stackoverflow](https://stackoverflow.blog/)
+
+- [Portswigger](https://portswigger.net/daily-swig)
+
+- [Dev.to](https://dev.to/t/news)
+
+- [2020.stateofjs](https://2020.stateofjs.com/en-US/)
+
+<details>
+  <summary>Otras fuentes de noticias del mundo tec:</summary>
 
 - [Crunchbase](https://www.crunchbase.com/): Crunchbase es una empresa que proporciona información sobre distintas empresas del sector. Su contenido incluye información sobre inversiones y financiación, personas en puestos de liderazgo y noticias corporativas.
 
 - [Packtpub](https://www.packtpub.com/free-learning): Packt es un proveedor global de contenidos de aprendizaje técnico.
 
 - [Goalkicker](https://goalkicker.com/): Libros de notas de programación para profesionales
-
-- [Ycombinator](https://news.ycombinator.com/)
 
 - [Top Products Launching Today](https://www.producthunt.com/)
 
@@ -79,43 +150,27 @@
 
 - [Hacks.mozilla](https://hacks.mozilla.org/)
 
-- [Github.com/trending](https://github.com/trending)
-
 - [Informationisbeautiful](https://informationisbeautiful.net/beautifulnews/)
-
-- [Stackoverflow](https://stackoverflow.blog/)
-
-- [Portswigger](https://portswigger.net/daily-swig)
-
-- [Dev.to](https://dev.to/t/news)
-
-- [2020.stateofjs](https://2020.stateofjs.com/en-US/)
 
 - [Uber.com](https://www.uber.com/es-ES/blog/madrid/engineering/)
 
 - [Zalando](https://engineering.zalando.com/)
 
+</details>
+
 ### What technology to learn
 
 - [Developer Roadmaps](https://roadmap.sh/): roadmap.sh es un esfuerzo comunitario para crear hojas de ruta, guías y otro contenido educativo para ayudar a los desarrolladores a elegir un camino y guiar sus aprendizajes.
 
-- [Mapa del empleo de Telefónica](https://mapadelempleo.fundaciontelefonica.com/) El Mapa del Empleo es una herramienta interactiva que, gracias a las tecnologías de Inteligencia Artificial y Big Data, analiza la oferta laboral en España y muestra las profesiones y habilidades digitales más demandadas, así como su evolución en el tiempo
+- [Mapa del empleo de Telefónica](https://mapadelempleo.fundaciontelefonica.com/): el Mapa del Empleo es una herramienta interactiva que, gracias a las tecnologías de Inteligencia Artificial y Big Data, analiza la oferta laboral en España y muestra las profesiones y habilidades digitales más demandadas, así como su evolución en el tiempo.
 
-- [Stackoverflow survey](https://survey.stackoverflow.co/2024/#overview) In May 2024, over 65,000 developers responded to our annual survey about coding, the technologies and tools they use and want to learn
+- [Stackoverflow survey](https://survey.stackoverflow.co/2024/#overview): En mayo de 2024, más de 65,000 desarrolladores respondieron a nuestra encuesta anual sobre programación y tecnologías y herramientas que utilizan y quieren aprender.
 
-## Types of interviews
+- [Project Based Learning](https://github.com/practical-tutorials/project-based-learning): Una lista de tutoriales de programación en los que los aspirantes a desarrolladores de software aprenden a crear una aplicación desde cero. Estos tutoriales se dividen en diferentes lenguajes de programación principales. Los tutoriales pueden involucrar múltiples tecnologías e idiomas.
 
-- [Prueba técnica de maquetación](https://jorgebenitezlopez.com/pruebas/maquetacion-atsistemas.pdf) A realizar en dos horas. Valoran uso de html5, SASS, flex, grid, BEN y que hagas lo máximo
-- [Prueba técnica de front (React)](https://jorgebenitezlopez.com/pruebas/front-blink.pdf) A realizar en una semana. Valoran uso de Redux
-- [Prueba técnica de front (React)](https://jorgebenitezlopez.com/pruebas/front-zara.pdf). [Material](https://jorgebenitezlopez.com/pruebas/materialpruebadezara.zip)A realizar en una semana.
-- [Prueba técnica de Back (Symfony)](https://jorgebenitezlopez.com/pruebas/back-mio.pdf)/back-mio.pdf). A realizar en una semana.
-- [Prueba de React viendo código](https://github.com/MAD-DW-TI-P2/react-challenge). Te hacen preguntas en vivo sobre qué problema tiene el code
- 
-## Advices
-- Importante tener una maquetas y componentes a disposición. Si tienes un proyecto propio (tu PET) mejor que mejor
-- Preguntar todo lo que pueda antes de la entrevista
-- Muchas veces te ponen problemas imposibles a ver cómo piensas, cómo te ordenas y cómo gestionas el estrés
-- Lo importnate es entrar. Luego dentro y con algo de experiencia es más facil crecer. He visto personas que entraron en el departamento de marketing que hicieron una app y terminaron en el departamento de IT.
+- [Build your own X](https://github.com/codecrafters-io/build-your-own-x): Este repositorio es una recopilación de guías paso a paso bien escritas para recrear nuestras tecnologías favoritas desde cero.
+
+- [Coding Interview University](https://github.com/jwasham/coding-interview-university): Plan de estudios de varios meses para pasar de ser un Desarrollador Web (Autodidacta, sin título) a un Ingeniero de Software para una gran compañía.
 
 ## Documentation
 
@@ -125,8 +180,12 @@
 
 - [What everyone's getting wrong about bootcamps vs degrees](https://dev.to/heyjtk/what-everyones-getting-wrong-about-bootcamps-vs-degrees-521e)
 
-- [Teloexplicocongatitos](https://teloexplicocongatitos.com/poster/tlecg20)
-
 ## Honorable mentions
 
-**[⬆ Back to top](#table-of-contents)**
+- [Sebastián Rotman](https://www.linkedin.com/in/sebasti%C3%A1n-rotman-saffie-b84341143/)
+
+- [Jorge Benítez](https://www.linkedin.com/in/jorgebenitezlopez/)
+
+- [Marcos Íñigo](https://www.linkedin.com/in/amargopastor/)
+
+**[⬆ Back to top 🍍](#table-of-contents)**
