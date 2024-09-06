@@ -4,14 +4,14 @@
 
 1. [Introduction](#introduction)
 1. [Types of interviews](#types-of-interviews)
-   1. [Examples](#examples)
+      1. [Examples](#examples)
 1. [Advices](#advices)
-   1. [Impostor syndrome](#impostor-syndrome)
+      1. [Impostor syndrome](#impostor-syndrome)
 1. [Resources](#resources)
-   1. [Job offers](#job-offers)
-   1. [Katas & technical interviews](#katas--technical-interviews)
-   1. [News](#news)
-   1. [What technology to learn](#what-technology-to-learn)
+      1. [Job offers](#job-offers)
+      1. [Katas & technical interviews](#katas--technical-interviews)
+      1. [News](#news)
+      1. [What technology to learn](#what-technology-to-learn)
 1. [Documentation](#documentation)
 1. [Honorable mentions](#honorable-mentions)
 
@@ -37,11 +37,11 @@ Sigue leyendo para descubir documentación, portales de ofertas, prácticas, not
 
 - [Prueba técnica de maquetación](https://jorgebenitezlopez.com/pruebas/maquetacion-atsistemas.pdf): a realizar en dos horas. Valoran uso de html5, SASS, flex, grid, BEN y que hagas lo máximo
 
-- [Prueba técnica de front (React)](https://jorgebenitezlopez.com/pruebas/front-blink.pdf): a realizar en una semana. Valoran uso de Redux
+- [Prueba técnica de front (React)](https://jorgebenitezlopez.com/pruebas/front-blink.pdf): A realizar en una semana. Valoran uso de Redux
 
-- [Prueba técnica de front (React)](https://jorgebenitezlopez.com/pruebas/front-zara.pdf): A realizar en una semana. Dispones aquí del [material](https://jorgebenitezlopez.com/pruebas/materialpruebadezara.zip)
+- [Prueba técnica de front (React)](https://jorgebenitezlopez.com/pruebas/front-zara.pdf): A realizar en una semana. Dispones aquí el [material](https://jorgebenitezlopez.com/pruebas/materialpruebadezara.zip)
 
-- [Prueba técnica de Back (Symfony)](https://jorgebenitezlopez.com/pruebas/back-mio.pdf): a realizar en una semana
+- [Prueba técnica de Back (Symfony)](https://jorgebenitezlopez.com/pruebas/back-mio.pdf): A realizar en una semana
 
 - [Prueba de React viendo código](https://github.com/MAD-DW-TI-P2/react-challenge). Te hacen preguntas en vivo sobre qué problema tiene el code
 
@@ -57,18 +57,28 @@ Sigue leyendo para descubir documentación, portales de ofertas, prácticas, not
 
 - **Pregunta todo** lo que puedas antes, durante y después de la entrevista
 
+- **Cuida la UI en los proyectos que desarrolles**: Las personas procesan primero lo que ven antes de pensar. Inspírate en diseños que ya funcionan. Opta por un enfoque minimalista, ya que suele ser más efectivo.
+
 - Muchas veces te ponen **problemas imposibles** a ver cómo piensas, cómo te ordenas y cómo gestionas el estrés. Por ejemplo: '¿Cuánto dinero costaría limpiar todas las ventanas de Seatle?'
 
-- **Sé sincer@** con los aspectos que dominas y aún más con aquellos que no dominas
+- **Sé sincer@** con los aspectos que dominas y aún más con aquellos que no dominas (Se nota mucho cuando haces una pregunta y se pone a buscarla en internet...)
 
 - **Lo importante es entrar**: una vez dentro y con algo de experiencia es más fácil crecer. Son muchos los casos de personas que entraron en el departamento de marketing que hicieron una app y terminaron en el departamento de IT
 
+- **Cuida muchos las formas y los detalles**: Nunca tendrás una segunda oportunidad para causar una buena primera impresión. Sé puntual, vístete adecuadamente, verifica la iluminación del lugar y asegúrate de tener una buena conexión. Haz pruebas previas para que todo funcione correctamente.
+
 - Los procesos de selección son una carrera de fondo: asegúrate de [llevar un registro](https://www.notion.so/templates/category/job-application-tracking) de todo tu trabajo
+
+- Utiliza estrategias de marketing digital para medir tu impacto. trazabilidad,hacer test A/B, etc. Añade [Google Analytcis](https://analytics.google.com/analytics/web/?authuser=0#/provision/create) a tu web/portfolio/cv online y cuando lo envíes añadelé [UTM](https://support.google.com/analytics/answer/10917952?sjid=5735640810721447324-EU#cc-set-up&zippy=%2Csecciones-de-este-art%C3%ADculo) para saber quién te visita.
+
+<p>
+  <img src="./img/img3.png" style="width: 100%">
+</p>
 
 ### Impostor syndrome
 
 <p>
-  <img src="./img/img1.jpg" style="width: 60%">
+  <img src="./img/img1.jpg" style="width: 100%">
 </p>
 
 ## Resources
@@ -102,6 +112,10 @@ Sigue leyendo para descubir documentación, portales de ofertas, prácticas, not
 - [Hackerrank](https://www.hackerrank.com/): En esta página podemos realizar un sencillo cuestionario inicial obtener nuestro plan de carrera en cualquiera de las siguientes [opciones disponibles](https://www.hackerrank.com/skills-directory).
 
 - [Warmup](https://grow.google/certificates/interview-warmup/): Una plataforma web dónde podemos ensallar nuestras entrevistas y recibir feedback inmediato. Se acompaña además de una plataforma con multitud de recursos (texto y vídeo) para preparar estas mismas pruebas.
+
+<p>
+  <img src="./img/img2.jpg" style="width: 100%">
+</p>
 
 ### News
 
@@ -171,6 +185,14 @@ Sigue leyendo para descubir documentación, portales de ofertas, prácticas, not
 - [Build your own X](https://github.com/codecrafters-io/build-your-own-x): Este repositorio es una recopilación de guías paso a paso bien escritas para recrear nuestras tecnologías favoritas desde cero.
 
 - [Coding Interview University](https://github.com/jwasham/coding-interview-university): Plan de estudios de varios meses para pasar de ser un Desarrollador Web (Autodidacta, sin título) a un Ingeniero de Software para una gran compañía.
+
+- [Google ](https://github.com/jwasham/coding-interview-university): Plan de estudios de varios meses para pasar de ser un Desarrollador Web (Autodidacta, sin título) a un Ingeniero de Software para una gran compañía.
+
+- [Google Trends](https://trends.google.com/trends/explore?date=all&q=%2Fm%2F07sbkfb,%2Fm%2F05z1_,%2Fm%2F02p97&hl=es): Tendencias...
+
+<p>
+  <img src="./img/img4.png" style="width: 100%">
+</p>
 
 ## Documentation
 
