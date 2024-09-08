@@ -4,20 +4,22 @@
 
 1. [Introduction](#introduction)
 1. [Types of interviews](#types-of-interviews)
-      1. [Examples](#examples)
+   1. [Examples](#examples)
 1. [Advices](#advices)
-      1. [Impostor syndrome](#impostor-syndrome)
+   1. [Impostor syndrome](#impostor-syndrome)
 1. [Resources](#resources)
-      1. [Job offers](#job-offers)
-      1. [Katas & technical interviews](#katas--technical-interviews)
-      1. [News](#news)
-      1. [What technology to learn](#what-technology-to-learn)
-1. [Documentation](#documentation)
+   1. [Job offers](#job-offers)
+   1. [Katas & technical interviews](#katas--technical-interviews)
+   1. [News](#news)
+   1. [What technology to learn](#what-technology-to-learn)
+1. [Articles of interest](#articles-of-interest)
 1. [Honorable mentions](#honorable-mentions)
 
 ## Introduction
 
 El siguiente contenido pretende mostrar a coders los diferentes **tipos de pruebas técnicas** que podemos encontrar en un proceso de selección y cómo enfrentar cada una de ellas según la experiencia de nuestros formadores.
+
+Las pruebas técnicas son un recurso habitual durante los procesos de selección en empresas y proyectos TEC. Su importancia es fundamental para conocer en el mayor detalle posible las habilidades técnicas de los futuros trabajadores y evitar la deuda técnica en los proyectos.
 
 Sigue leyendo para descubir documentación, portales de ofertas, prácticas, noticias, tipos de pruebas y consejos para enfrentar la incertidumbre y afrontar el síndrome del impostor.
 
@@ -49,27 +51,31 @@ Sigue leyendo para descubir documentación, portales de ofertas, prácticas, not
 
 ## Advices
 
-- Importante tener una **maquetas y componentes a disposición**. Si tienes un proyecto propio (tu PET) mejor que mejor
+- Lee atentamente la **oferta laboral** a la que pretendes postular: asegúrate que esta encaja con tu plan de carrera
+
+- Investiga la empresa, el sector y, si es posible, los perfiles públicos de tus entrevistadores
+
+- Importante tener una **maquetas y componentes a disposición**. Mejor si tienes un proyecto propio (tu PET)
 
 - Hablando de PET, asegúrate que tu **proyecto personal está actualizado, documentado y desplegado**
 
+- **Cuida la UI en los proyectos que desarrolles**: Las personas procesan primero lo que ven antes de pensar. Inspírate en diseños que ya funcionan. Opta por un enfoque minimalista, ya que suele ser más efectivo
+
 - No olvides practicar tus **soft skills**
 
-- **Pregunta todo** lo que puedas antes, durante y después de la entrevista
-
-- **Cuida la UI en los proyectos que desarrolles**: Las personas procesan primero lo que ven antes de pensar. Inspírate en diseños que ya funcionan. Opta por un enfoque minimalista, ya que suele ser más efectivo.
+- **Pregunta todo** lo que puedas antes, durante y después de la entrevista. Siempre es grato un sano interés por las tecnologías, entornos, herramientas, metodologías y plan de carrera.
 
 - Muchas veces te ponen **problemas imposibles** a ver cómo piensas, cómo te ordenas y cómo gestionas el estrés. Por ejemplo: '¿Cuánto dinero costaría limpiar todas las ventanas de Seatle?'
 
-- **Sé sincer@** con los aspectos que dominas y aún más con aquellos que no dominas (Se nota mucho cuando haces una pregunta y se pone a buscarla en internet...)
+- **Sé sincer@** con los aspectos que dominas y aún más con aquellos que no dominas (se nota mucho cuando haces una pregunta y se pone a buscarla en internet...)
 
 - **Lo importante es entrar**: una vez dentro y con algo de experiencia es más fácil crecer. Son muchos los casos de personas que entraron en el departamento de marketing que hicieron una app y terminaron en el departamento de IT
 
-- **Cuida muchos las formas y los detalles**: Nunca tendrás una segunda oportunidad para causar una buena primera impresión. Sé puntual, vístete adecuadamente, verifica la iluminación del lugar y asegúrate de tener una buena conexión. Haz pruebas previas para que todo funcione correctamente.
+- **Cuida muchos las formas y los detalles**: Nunca tendrás una segunda oportunidad para causar una buena primera impresión. Sé puntual, vístete adecuadamente, recoge y ordena tu espacio, verifica la iluminación del lugar y asegúrate de tener una buena conexión. Haz pruebas previas para que todo funcione correctamente
 
-- Los procesos de selección son una carrera de fondo: asegúrate de [llevar un registro](https://www.notion.so/templates/category/job-application-tracking) de todo tu trabajo
+- Los procesos de selección son una **carrera de fondo**: asegúrate de [llevar un registro](https://www.notion.so/templates/category/job-application-tracking) de todo tu trabajo
 
-- Utiliza estrategias de marketing digital para medir tu impacto. trazabilidad,hacer test A/B, etc. Añade [Google Analytcis](https://analytics.google.com/analytics/web/?authuser=0#/provision/create) a tu web/portfolio/cv online y cuando lo envíes añadelé [UTM](https://support.google.com/analytics/answer/10917952?sjid=5735640810721447324-EU#cc-set-up&zippy=%2Csecciones-de-este-art%C3%ADculo) para saber quién te visita.
+- Utiliza **estrategias de marketing digital** para medir tu impacto: trazabilidad, hacer test A/B, etc. Añade [Google Analytcis](https://analytics.google.com/analytics/web/?authuser=0#/provision/create) a tu web/portfolio/cv online y cuando lo envíes añadelé [UTM](https://support.google.com/analytics/answer/10917952?sjid=5735640810721447324-EU#cc-set-up&zippy=%2Csecciones-de-este-art%C3%ADculo) para saber quién te visita.
 
 <p>
   <img src="./img/img3.png" style="width: 100%">
@@ -95,7 +101,7 @@ Sigue leyendo para descubir documentación, portales de ofertas, prácticas, not
 
 - [Toptal](https://www.toptal.com/): Toptal es una red formada por desarrolladores de software, diseñadores, expertos en marketing, expertos en finanzas, gerentes de productos y gerentes de proyectos independientes del mundo. Las empresas pueden contratar freelancers de Toptal para sus proyectos.
 
-- [Indeed](https://es.indeed.com/): Es la página web de empleo #1 en el mundo1 con más de 350 millones de usuarios mensuales
+- [Indeed](https://es.indeed.com/): Es la página web de empleo #1 en el mundo con más de 350 millones de usuarios mensuales
 
 - [Tecnoempleo](https://www.tecnoempleo.com/): Portal de empleo especializado en informática y telecomunicaciones
 
@@ -188,13 +194,13 @@ Sigue leyendo para descubir documentación, portales de ofertas, prácticas, not
 
 - [Google ](https://github.com/jwasham/coding-interview-university): Plan de estudios de varios meses para pasar de ser un Desarrollador Web (Autodidacta, sin título) a un Ingeniero de Software para una gran compañía.
 
-- [Google Trends](https://trends.google.com/trends/explore?date=all&q=%2Fm%2F07sbkfb,%2Fm%2F05z1_,%2Fm%2F02p97&hl=es): Tendencias...
+- [Google Trends](https://trends.google.com/trends/explore?date=all&q=%2Fm%2F07sbkfb,%2Fm%2F05z1_,%2Fm%2F02p97&hl=es): Proporciona acceso a una muestra (sin filtros, la mayor parte) de solicitudes de búsqueda reales realizadas a Google. Es anónima, se organiza en categorías (según el tema de las consultas de búsqueda) y contiene datos agregados
 
 <p>
   <img src="./img/img4.png" style="width: 100%">
 </p>
 
-## Documentation
+## Articles of interest
 
 - [10 Useful Tips To Successful Technical Writing](https://dev.to/drprime01/10-useful-tips-to-successful-technical-writing-4d65)
 
