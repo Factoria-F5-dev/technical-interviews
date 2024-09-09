@@ -51,7 +51,9 @@ Sigue leyendo para descubir documentación, portales de ofertas, prácticas, not
 
 ## Advices
 
-- Lee atentamente la **oferta laboral** a la que pretendes postular: asegúrate que esta encaja con tu plan de carrera
+- Lee atentamente la **oferta laboral** a la que pretendes postular: asegúrate que esta encaja con tu plan de carrera. Siempre valoran el compromiso.
+
+- Las preguntas suelen relacionarse con estructuras de datos y algoritmos. [Estructuras de datos y algoritmos](https://www.geeksforgeeks.org/learn-data-structures-and-algorithms-dsa-tutorial/) | [Patrones de diseño](https://refactoring.guru/design-patterns/catalog)
 
 - Investiga la empresa, el sector y, si es posible, los perfiles públicos de tus entrevistadores
 
