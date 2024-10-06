@@ -119,6 +119,8 @@ Sigue leyendo para descubir documentación, portales de ofertas, prácticas, not
 
 - [Warmup](https://grow.google/certificates/interview-warmup/): Una plataforma web dónde podemos ensallar nuestras entrevistas y recibir feedback inmediato. Se acompaña además de una plataforma con multitud de recursos (texto y vídeo) para preparar estas mismas pruebas.
 
+- [Hellointerview](https://www.hellointerview.com/learn/code): Una guía visual de los patrones y enfoques más importantes para la entrevista de codificación.
+
 <p>
   <img src="./img/img2.jpg" style="width: 100%">
 </p>
@@ -194,7 +196,9 @@ Sigue leyendo para descubir documentación, portales de ofertas, prácticas, not
 
 - [Google ](https://github.com/jwasham/coding-interview-university): Plan de estudios de varios meses para pasar de ser un Desarrollador Web (Autodidacta, sin título) a un Ingeniero de Software para una gran compañía.
 
-- [Google Trends](https://trends.google.com/trends/explore?date=all&q=%2Fm%2F07sbkfb,%2Fm%2F05z1_,%2Fm%2F02p97&hl=es): Proporciona acceso a una muestra (sin filtros, la mayor parte) de solicitudes de búsqueda reales realizadas a Google. Es anónima, se organiza en categorías (según el tema de las consultas de búsqueda) y contiene datos agregados
+- [Google Trends](https://trends.google.com/trends/explore?date=all&q=%2Fm%2F07sbkfb,%2Fm%2F05z1_,%2Fm%2F02p97&hl=es): Proporciona acceso a una muestra (sin filtros, la mayor parte) de solicitudes de búsqueda reales realizadas a Google. Es anónima, se organiza en categorías (según el tema de las consultas de búsqueda) y contiene datos agregados.
+
+- [Company wise problems 2002](https://github.com/hxu296/leetcode-company-wise-problems-2022): Listas seleccionadas de preguntas de Leetcode agrupadas por empresas (mayo de 2022).
 
 <p>
   <img src="./img/img4.png" style="width: 100%">
