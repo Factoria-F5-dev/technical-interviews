@@ -69,7 +69,11 @@ Sigue leyendo para descubir documentación, portales de ofertas, prácticas, not
 
 - Muchas veces te ponen **problemas imposibles** a ver cómo piensas, cómo te ordenas y cómo gestionas el estrés. Por ejemplo: '¿Cuánto dinero costaría limpiar todas las ventanas de Seatle?'
 
-- **Sé sincer@** con los aspectos que dominas y aún más con aquellos que no dominas (se nota mucho cuando haces una pregunta y se pone a buscarla en internet...)
+- **Sé sincer@** con los aspectos que dominas y aún más con aquellos que no dominas (se nota mucho cuando haces una pregunta y se pone a buscarla en internet...). Aunque la tecnología avanza.
+
+<p>
+  <img src="./img/img4.png">
+</p>
 
 - **Lo importante es entrar**: una vez dentro y con algo de experiencia es más fácil crecer. Son muchos los casos de personas que entraron en el departamento de marketing que hicieron una app y terminaron en el departamento de IT
 
@@ -198,9 +202,9 @@ Sigue leyendo para descubir documentación, portales de ofertas, prácticas, not
 
 - [Google ](https://github.com/jwasham/coding-interview-university): Plan de estudios de varios meses para pasar de ser un Desarrollador Web (Autodidacta, sin título) a un Ingeniero de Software para una gran compañía.
 
-- [Google Trends](https://trends.google.com/trends/explore?date=all&q=%2Fm%2F07sbkfb,%2Fm%2F05z1_,%2Fm%2F02p97&hl=es): Proporciona acceso a una muestra (sin filtros, la mayor parte) de solicitudes de búsqueda reales realizadas a Google. Es anónima, se organiza en categorías (según el tema de las consultas de búsqueda) y contiene datos agregados.
-
 - [Company wise problems 2002](https://github.com/hxu296/leetcode-company-wise-problems-2022): Listas seleccionadas de preguntas de Leetcode agrupadas por empresas (mayo de 2022).
+
+- [Google Trends](https://trends.google.com/trends/explore?date=all&q=%2Fm%2F07sbkfb,%2Fm%2F05z1_,%2Fm%2F02p97&hl=es): Proporciona acceso a una muestra (sin filtros, la mayor parte) de solicitudes de búsqueda reales realizadas a Google. Es anónima, se organiza en categorías (según el tema de las consultas de búsqueda) y contiene datos agregados.
 
 <p>
   <img src="./img/img4.png" style="width: 100%">
