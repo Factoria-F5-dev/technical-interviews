@@ -207,7 +207,7 @@ Sigue leyendo para descubir documentación, portales de ofertas, prácticas, not
 - [Google Trends](https://trends.google.com/trends/explore?date=all&q=%2Fm%2F07sbkfb,%2Fm%2F05z1_,%2Fm%2F02p97&hl=es): Proporciona acceso a una muestra (sin filtros, la mayor parte) de solicitudes de búsqueda reales realizadas a Google. Es anónima, se organiza en categorías (según el tema de las consultas de búsqueda) y contiene datos agregados.
 
 <p>
-  <img src="./img/img4.png" style="width: 100%">
+  <img src="./img/img5.png" style="width: 100%">
 </p>
 
 ## Articles of interest
