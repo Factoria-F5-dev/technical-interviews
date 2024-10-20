@@ -81,7 +81,7 @@ Sigue leyendo para descubir documentación, portales de ofertas, prácticas, not
 
 - Los procesos de selección son una **carrera de fondo**: asegúrate de [llevar un registro](https://www.notion.so/templates/category/job-application-tracking) de todo tu trabajo
 
-- Utiliza **estrategias de marketing digital** para medir tu impacto: trazabilidad, hacer test A/B, etc. Añade [Google Analytcis](https://analytics.google.com/analytics/web/?authuser=0#/provision/create) a tu web/portfolio/cv online y cuando lo envíes añadelé [UTM](https://support.google.com/analytics/answer/10917952?sjid=5735640810721447324-EU#cc-set-up&zippy=%2Csecciones-de-este-art%C3%ADculo) para saber quién te visita.
+- Utiliza **estrategias de marketing digital** para medir tu impacto: trazabilidad, hacer test A/B de cvs, etc. Añade [Google Analytcis](https://analytics.google.com/analytics/web/?authuser=0#/provision/create) a tu web/portfolio/cv online o guarda en el log las url con los tags y cuando envíes el CV añadelé [UTM](https://support.google.com/analytics/answer/10917952?sjid=5735640810721447324-EU#cc-set-up&zippy=%2Csecciones-de-este-art%C3%ADculo) para saber quién visita por portfolio.
 
 <p>
   <img src="./img/img3.png" style="width: 100%">
