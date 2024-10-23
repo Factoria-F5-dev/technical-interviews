@@ -17,7 +17,7 @@
 
 ## Introduction
 
-El siguiente contenido pretende mostrar a coders los diferentes **tipos de pruebas técnicas** que podemos encontrar en un proceso de selección y cómo enfrentar cada una de ellas según la experiencia de nuestros formadores.
+El siguiente contenido pretende mostrar a coders los diferentes **tipos de pruebas técnicas** que podemos encontrar en un proceso de selección y consejos enfrentar cada una de ellas según la experiencia de nuestros formadores.
 
 Las pruebas técnicas son un recurso habitual durante los procesos de selección en empresas y proyectos TEC. Su importancia es fundamental para conocer en el mayor detalle posible las habilidades técnicas de los futuros trabajadores y evitar la deuda técnica en los proyectos.
 
@@ -51,33 +51,33 @@ Sigue leyendo para descubir documentación, portales de ofertas, prácticas, not
 
 ## Advices
 
-- Lee atentamente la **oferta laboral** a la que pretendes postular: asegúrate que esta encaja con tu plan de carrera. Siempre valoran el compromiso.
+- Lee atentamente la **oferta laboral** a la que pretendes postular: asegúrate que esta encaja con tu plan de carrera. **Siempre valoran el compromiso y la personalización**.
 
 - Las preguntas suelen relacionarse con estructuras de datos y algoritmos. [Estructuras de datos y algoritmos](https://www.geeksforgeeks.org/learn-data-structures-and-algorithms-dsa-tutorial/) | [Patrones de diseño](https://refactoring.guru/design-patterns/catalog)
 
 - Investiga la empresa, el sector y, si es posible, los perfiles públicos de tus entrevistadores
 
-- Importante tener una **maquetas y componentes a disposición**. Mejor si tienes un proyecto propio (tu PET)
+- Importante tener una **maquetas y componentes a disposición**. Mejor si tienes un proyecto propio en producción (**tu PET**). Además tu PET te permite hackear la experiencia 
 
 - Hablando de PET, asegúrate que tu **proyecto personal está actualizado, documentado y desplegado**
 
 - **Cuida la UI en los proyectos que desarrolles**: Las personas procesan primero lo que ven antes de pensar. Inspírate en diseños que ya funcionan. Opta por un enfoque minimalista, ya que suele ser más efectivo
 
-- No olvides practicar tus **soft skills**
+- No olvides practicar tus **soft skills**. Sobre todo una: La proactividad / la mentalidad de crecimiento
 
-- **Pregunta todo** lo que puedas antes, durante y después de la entrevista. Siempre es grato un sano interés por las tecnologías, entornos, herramientas, metodologías y plan de carrera.
+- **Pregunta todo** lo que puedas antes, durante y después de la entrevista. Siempre es grato un sano interés por las tecnologías, entornos, herramientas, metodologías y plan de carrera. Es importante mostrar interés y puedes sacar pistas para los siguientes pasos
 
-- Muchas veces te ponen **problemas imposibles** a ver cómo piensas, cómo te ordenas y cómo gestionas el estrés. Por ejemplo: '¿Cuánto dinero costaría limpiar todas las ventanas de Seatle?'
+- **Cuida muchos las formas y los detalles**: Nunca tendrás una segunda oportunidad para causar una buena primera impresión. Sé puntual, vístete adecuadamente, recoge y ordena tu espacio, verifica la iluminación del lugar y asegúrate de tener una buena conexión. Haz pruebas previas para que todo funcione correctamente
 
-- **Sé sincer@** con los aspectos que dominas y aún más con aquellos que no dominas (se nota mucho cuando haces una pregunta y se pone a buscarla en internet...). Aunque la tecnología avanza.
+- Muchas veces te ponen **problemas imposibles** a ver cómo piensas, cómo te ordenas y cómo gestionas el estrés. Por ejemplo: '¿Cuánto dinero costaría limpiar todas las ventanas de Seatle?'. También suelen pedir más de lo posible para ver cómo se gestiona el estrés
+
+- **Sé sincer@** con los aspectos que dominas y aún más con aquellos que no dominas (se nota mucho cuando haces una pregunta y se pone a buscarla en internet...). Aunque la tecnología avanza...
 
 <p>
   <img src="./img/img4.png">
 </p>
 
 - **Lo importante es entrar**: una vez dentro y con algo de experiencia es más fácil crecer. Son muchos los casos de personas que entraron en el departamento de marketing que hicieron una app y terminaron en el departamento de IT
-
-- **Cuida muchos las formas y los detalles**: Nunca tendrás una segunda oportunidad para causar una buena primera impresión. Sé puntual, vístete adecuadamente, recoge y ordena tu espacio, verifica la iluminación del lugar y asegúrate de tener una buena conexión. Haz pruebas previas para que todo funcione correctamente
 
 - Los procesos de selección son una **carrera de fondo**: asegúrate de [llevar un registro](https://www.notion.so/templates/category/job-application-tracking) de todo tu trabajo
 
@@ -92,6 +92,8 @@ Sigue leyendo para descubir documentación, portales de ofertas, prácticas, not
 <p>
   <img src="./img/img1.jpg" style="width: 100%">
 </p>
+
+Por eso trabajamos la pedagogía activa...
 
 ## Resources
 
