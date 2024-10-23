@@ -37,7 +37,7 @@ Sigue leyendo para descubir documentación, portales de ofertas, prácticas, not
 
 ### Examples
 
-- [Prueba técnica de maquetación](https://jorgebenitezlopez.com/pruebas/maquetacion-atsistemas.pdf): a realizar en dos horas. Valoran uso de html5, SASS, flex, grid, BEN y que hagas lo máximo
+- [Prueba técnica de maquetación](https://jorgebenitezlopez.com/pruebas/maquetacion-atsistemas.pdf): a realizar en dos horas
 
 - [Prueba técnica de front (React)](https://jorgebenitezlopez.com/pruebas/front-blink.pdf): A realizar en una semana. Valoran uso de Redux
 
